@@ -1,4 +1,4 @@
-# Shopping-MVC5
+# VegeFood
 [Link trang web trên azure cloud](https://leduc-t1807e.azurewebsites.net)
 
 ## Chương 1: 
