@@ -1,5 +1,4 @@
 # Shopping-MVC5
-## Team17 Project
 [Link trang web trên azure cloud](https://leduc-t1807e.azurewebsites.net)
 
 ## Chương 1: 
